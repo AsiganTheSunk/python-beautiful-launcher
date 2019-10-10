@@ -1,1 +1,1 @@
-# python_beautiful_terminal
+# Python Beautiful Launcher
